@@ -21,4 +21,4 @@ This is a **Car Rental Website** that allows users to browse different cars avai
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Car-Rental-Website.git
+   git clone https://github.com/sagarjd16/Car-Rental-Website.git
